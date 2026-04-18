@@ -2655,7 +2655,7 @@ GameObject:
   - component: {fileID: 1912054874}
   - component: {fileID: 1912054873}
   m_Layer: 0
-  m_Name: Random_Bird_Sound
+  m_Name: ThunderSound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
